@@ -1,0 +1,9 @@
+{
+  "name": " Grammar BD V.2",
+  "description": "A responsive, gamified English learning app.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
